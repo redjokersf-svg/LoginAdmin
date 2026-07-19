@@ -4,7 +4,7 @@
         "username": "dika",
         "password": "123",
         "expirydate": "24-07-2026",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "device456",
