@@ -1,10 +1,10 @@
 [
     {
         "device_id": "70e2bcf51d15a707",
-        "username": "dika",
-        "password": "123",
-        "expirydate": "24-07-2026",
-        "Allowoffline": false
+        "username": "user1",
+        "password": "pass123",
+        "expirydate": "24-08-2026",
+        "Allowoffline": true
     },
     {
         "device_id": "device456",
